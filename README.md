@@ -1,1 +1,3 @@
-# Translations
+# DEMOCRAFR Translations
+## 🇫🇷
+## 🇬🇧
