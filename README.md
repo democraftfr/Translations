@@ -1,3 +1,3 @@
-# DEMOCRAFR Translations
-## 🇫🇷
-## 🇬🇧
+# DEMOCRAFT : Strings Edition
+## 🇫🇷 À Props
+## 🇬🇧 About This
